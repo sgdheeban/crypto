@@ -1,2 +1,2 @@
 # crypto
-Various crypto tools &amp; framework experiments
+Various crypto concepts, tools &amp; framework experiments
